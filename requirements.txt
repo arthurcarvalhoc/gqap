@@ -1,0 +1,9 @@
+Mako==1.1.1
+Markdown==3.2.1
+MarkupSafe==1.1.1
+numpy
+pandas
+pdoc3==0.7.4
+python-dateutil==2.8.0
+pytz==2019.3
+six==1.13.0
